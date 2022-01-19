@@ -1,6 +1,6 @@
 /****************************************************************\
 | DESCRIPTION                                                    |
-| Find outdate software on windows computers                     |
+| Find outdated software on windows computers                     |
 |                                                                |
 | VARIABLES                                                      |
 | Name (string) - name of installed appliaction                  |
