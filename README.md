@@ -6,4 +6,5 @@ Queries for Sophos XDR / OSQuery (2022 @vaneckzero)
 - https://osquery.io/schema/5.1.0/
 
 ## thank you
-- https://github.com/SophosRapidResponse/OSQuery
+- https://github.com/SophosRapidResponse/
+- https://github.com/sophos-cybersecurity
